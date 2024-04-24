@@ -1,1 +1,1 @@
-# nextflow_assignment2
+This Nextflow repository is for the second workflow assignment for the BIOL7210 class. It contains a Nextflow script that takes two paired end read .fastq.gz files as an input, creates an assembly using skesa, then performs quality assessment with quast and genotyping with mlst in parallel.
